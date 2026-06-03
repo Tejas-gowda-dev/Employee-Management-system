@@ -1,0 +1,6 @@
+{
+  "name": "Employee Management System",
+  "description": "A production-ready full-stack Employee Management System built with Express, React Node.js, and TypeScript, featuring JWT authentication, role-based access control, leave and attendance tracking, and dashboard analytics.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
